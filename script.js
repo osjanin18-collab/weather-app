@@ -1,6 +1,6 @@
 // OpenWeatherMap API Key (free tier)
 // Регистрируйтесь на https://openweathermap.org/api для получения API ключа
-const API_KEY = '778c9f6423db97433a6001bcf1a212a6'; // Замените на ваш API ключ
+const API_KEY = 'b6fd43953d41a3f51d77f2fcef06baeb'; // Демо ключ для тестирования
 
 const searchInput = document.getElementById('searchInput');
 const searchBtn = document.getElementById('searchBtn');
